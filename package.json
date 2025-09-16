@@ -4,10 +4,11 @@
     "expo-constants": "~18.0.8",
     "expo-device": "~8.0.7",
     "expo-notifications": "~0.32.11",
-    "expo-permissions": "^14.4.0",
-    "react-native-appearance": "^0.3.4",
+    "react-native-appearance": "^0.0.0",
     "react-native-chart-kit": "^6.12.0",
-    "react-native-svg": "15.12.1"
+    "react-native-svg": "15.12.1",
+    "react": "19.1.0",
+    "react-native": "0.81.4"
   },
   "devDependencies": {
     "@types/react": "~19.1.10",

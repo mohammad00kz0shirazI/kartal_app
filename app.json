@@ -5,6 +5,9 @@
         "projectId": "b6c89504-7919-4cd2-8228-98cd3b0a2c6d"
       }
     },
-    "owner": "mohammad00_kz_shirazi"
+    "owner": "mohammad00_kz_shirazi",
+    "android": {
+      "package": "com.mohammad00_kz_shirazi.kartal_app"
+    }
   }
 }
